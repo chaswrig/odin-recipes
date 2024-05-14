@@ -1,0 +1,14 @@
+h1 {
+    font-weight: bold;
+    color: red;
+}
+
+ul {
+    border-style: dashed;
+    padding: 10px;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
